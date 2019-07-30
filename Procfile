@@ -1,0 +1,1 @@
+web: gunicorn taswuteam.wsgi --log-file -
